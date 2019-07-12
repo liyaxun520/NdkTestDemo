@@ -1,0 +1,14 @@
+//
+// Created by Administrator on 2019/7/4.
+//
+
+#ifndef NDKTESTDEMO_JAVA_COM_NDK_NDKTESTDEMO_JNI_MYJNI_GIVEARRAY_H
+#define NDKTESTDEMO_JAVA_COM_NDK_NDKTESTDEMO_JNI_MYJNI_GIVEARRAY_H
+
+
+class Java_com_ndk_ndktestdemo_jni_MyJni_giveArray {
+
+};
+
+
+#endif //NDKTESTDEMO_JAVA_COM_NDK_NDKTESTDEMO_JNI_MYJNI_GIVEARRAY_H
